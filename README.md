@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fares-dev-bit&label=Profile%20views&color=0e75b6&style=flat" alt="fares-dev-bit" /> </p>
 
-- 🔭 I’m currently working on **Breeze**
 
 - 🌱 I’m currently learning **backend**
 
